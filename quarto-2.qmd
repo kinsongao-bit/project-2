@@ -2,5 +2,10 @@
 title: "Untitled"
 "author": Kinson Gao
 format: html
+execute:
+  echo: false
 ---
 
+```{r}
+library(tidyverse)
+```
